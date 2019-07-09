@@ -1,0 +1,52 @@
+.slider{
+    padding-left: 12.5%;
+    width: 75%;
+    padding-bottom: 4%;
+}
+.a{
+    width: 100%;
+    height: 100%;
+}
+#nav{
+   background-color: rgba(22, 122, 204, 0.349);
+}
+#footer{
+    padding-left: 83%;
+}
+.text{
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+}
+.h1{
+    text-align: center;
+}
+.h2{
+    text-align: center;
+}
+.img{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;  
+}
+.reg{
+    padding-top: .2%;
+    padding-left: 12.5%;
+    width: 75%;
+    height: 75%;
+}
+#container{
+    background-color:  rgba(22, 122, 204, 0.349);
+}
+.img2{
+    width: 10%;
+    height: 10%;
+}
+
+#general{
+    display: inline-block;
+    align-self: auto;
+}
+#bg{
+    opacity: 1 !important;
+    
+}
